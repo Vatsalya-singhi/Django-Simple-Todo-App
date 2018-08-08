@@ -1,5 +1,6 @@
 # Django-Simple-Todo-App
 A simple Todo app to help keep up with your tasks.
+App feature -  Add,View and Delete Notes.
 ## Setup-
 1. Clone/Download project.
 2. Install required software - Django,python,Xampp,Visual Code.
